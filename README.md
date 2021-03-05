@@ -21,6 +21,9 @@ const emmyn = {
 <a  href="https://github.com/Emmyn5600">
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=emmyn5600&show_icons=true&theme=nord">
 </a>
+<a  href="https://github.com/Emmyn5600">
+    <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmyn5600&theme=buefy&layout=compact">
+</a>
 
 
 
