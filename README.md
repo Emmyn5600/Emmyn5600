@@ -16,6 +16,12 @@ const emmyn = {
   location: [Kigali-Rwanda],
 }
 ```
+<h3> :chart: &nbsp;GitHub Stats </h3>
+
+<a  href="https://github.com/Emmyn5600">
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=emmyn5600&show_icons=true&theme=nord">
+</a>
+
 
 
 
