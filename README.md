@@ -1,7 +1,8 @@
 <h2> Hi, I am Emmanuel! <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="70"></h2>
 
 ![NSABIMANA Emmanuel A Full-Stack Web Developer (1)](https://user-images.githubusercontent.com/55635977/110165204-46061880-7dfb-11eb-9ce4-45a19c5cb87e.jpg)
-<p><em>Remote Full-stack web developer ready for implementation of any project. (Problem-solving)</em><img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55">
+
+<p><em>A Remote Full-stack web developer ready for implementation of any project. (Problem-solving)</em><img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55">
   
  <h2>Let's get in touch!</h2>
 <p align="center">
@@ -20,6 +21,7 @@ const emmyn = {
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
   Tailwind CSS],
   interest: ["Software development"],
+  Quote: ["You can't change the past but it is possible to start with your past to build a better future"],
   funfacts: ["The man with the world’s deepest voice can make sounds humans can’t hear"],
   location: [Kigali-Rwanda],
 }
@@ -33,7 +35,7 @@ const emmyn = {
     <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmyn5600&theme=buefy&layout=compact">
 </a>
 
-#### Please, guys, keep your eyes and thought on this account, I am coming soon with an impressive portfolio<img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
+#### Please, keep your eyes and thought on this account, I am coming soon with an impressive portfolio<img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
 
 
 
