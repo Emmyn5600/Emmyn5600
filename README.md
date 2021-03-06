@@ -33,9 +33,7 @@ const emmyn = {
     <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmyn5600&theme=buefy&layout=compact">
 </a>
 
-
-
-
+#### Please, guys, keep your eyes and thought on this account, I am coming soon with an impressive portfolio<img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60">
 
 
 
