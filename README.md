@@ -23,7 +23,7 @@ const emmyn = {
   interest: ["Software development"],
   personality: ["Protagonists"],
   Quote1: ["You can't change the past but it is possible to start with your past to build a better future"],
-  Quote2: ["Believe in yourself. Under-confidence leads to a self-fulfilling prophecy that you are not good enough for your work"]
+  Quote2: ["Believe in yourself. Under-confidence leads to a self-fulfilling prophecy that you are not good enough for your work"],
   funfacts: ["The man with the world’s deepest voice can make sounds humans can’t hear"],
   location: [Kigali-Rwanda],
 }
