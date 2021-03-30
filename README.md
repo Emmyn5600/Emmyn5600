@@ -29,11 +29,10 @@
 const emmyn = {
   pronouns: ["He", "Him"],
   lookingFor: "Front-end developer" || "Back-end developer" || "Full-stack web developer", 
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
-  Tailwind CSS],
+  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS],
   interest: ["Software development"],
   personality: ["Protagonists"],
-  Advice:["Don’t let imposter syndrome keep you from getting what’s yours. Use “I feel” a lot instead of, “I think that”."]
+  Advice:["Don’t let imposter syndrome keep you from getting what’s yours. Use “I feel” a lot instead of, “I think that”."],
   Quote1: ["You can't change the past but it is possible to start with your past to build a better future"],
   Quote2: ["Believe in yourself. Under-confidence leads to a self-fulfilling prophecy that you are not good enough for your work"],
   funfacts: ["The man with the world’s deepest voice can make sounds humans can’t hear"],
