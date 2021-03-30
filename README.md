@@ -28,7 +28,7 @@
 ```javascript
 const emmyn = {
   pronouns: ["He", "Him"],
-  lookingFor: "Front-end developer" || "Full-stack web developer" || "Back-end developer",
+  lookingFor: "Front-end developer" || "Back-end developer" || "Full-stack web developer", 
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
   Tailwind CSS],
   interest: ["Software development"],
