@@ -12,7 +12,7 @@
 const emmyn = {
   pronouns: ["He", "Him"],
   lookingFor: "Front-end developer" || "Back-end developer" || "Full-stack web developer", 
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS],
+  code: [JavaScript, React, Redux, Vuejs, D3.js, Three.js, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS],
   interest: ["Software development"],
   personality: ["Protagonists"],
   Advice:["Don’t let imposter syndrome keep you from getting what’s yours. Use “I feel” a lot instead of, “I think that”."],
