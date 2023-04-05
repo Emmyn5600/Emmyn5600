@@ -10,16 +10,22 @@
 
 ```javascript
 const emmyn = {
-  pronouns: ["He", "Him"],
+  😄 pronouns: ["He", "Him"],
+
   lookingFor: "Front-end developer" || "Back-end developer" || "Full-stack web developer", 
   code: [JavaScript, React, Redux, Vuejs, D3.js, Three.js, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS],
-  interest: ["Software development"],
   personality: ["Protagonists"],
   Advice:["Don’t let imposter syndrome keep you from getting what’s yours. Use “I feel” a lot instead of, “I think that”."],
+
+  🔭 I am currently working on React and vue based projects.
+  🌱 I’m currently learning D3js, Greensock and Threejs. 
+  👯 I'm currently developing my own project in vuejs, looking for a collaboration and more ideas.
+  🤔 I need help in D3js to develop data visualization based project.
+  💬 Ask me about software development
+  ⚡ funfacts: ["The man with the world’s deepest voice can make sounds humans can’t hear"],
+
   Quote1: ["You can't change the past but it is possible to start with your past to build a better future"],
   Quote2: ["Believe in yourself. Under-confidence leads to a self-fulfilling prophecy that you are not good enough for your work"],
-  funfacts: ["The man with the world’s deepest voice can make sounds humans can’t hear"],
-  location: [Kigali-Rwanda],
 }
 ```
 <br>
